@@ -1,2 +1,2 @@
-# fullstack_vuejs_graphql_nodejs
+# fullstack-vuejs-graphql-nodejs
 Desenvolvendo uma aplicação com VueJS, GraphQL, NodeJS
